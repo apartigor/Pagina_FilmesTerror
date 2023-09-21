@@ -1,2 +1,3 @@
-# pagina_filmesterror
-Pagina sobre filmes de terror criado para projeto de faculdade de Dev Web. HTML e CSS
+## Pagina de Filmes de Terror
+Pagina sobre filmes de terror criado para um projeto da faculdade, na aula de Dev Web
+Utilizados: HTML e CSS
